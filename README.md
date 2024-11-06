@@ -42,13 +42,13 @@ but `I think` there is no reason to ban the account, because this is not cheatin
 ![alt text](image-4.png)
 
 Seeding 
-    - id 1->n
-    - active = 1 to run  != 1 to off
-    - is_register = 1 to register
-    - ref_code 
-    - email : email
-    - password : password
-    - proxy_url:http://username:password@ip:port
+- id 1->n
+- active = 1 to run  != 1 to off
+- is_register = 1 to register
+- ref_code 
+- email : email
+- password : password
+- proxy_url:http://username:password@ip:port
     access_token:"eyJhbGciOiJIUzI1NiIsImtpZCI6IjNESGJSNFRBOHdxNHlta3AiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2lra25uZ3JneHV4Z2pocGxicGV5LnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI4YmEwMDMxNC05NjVhLTQ1YzMtOWYzNC0xYzc2OTc5OWRlMGQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzMxMDI4MzM2LCJpYXQiOjE3MzA0MjM1MzYsImVtYWlsIjoiYmFuZ2Jvb25nMTk5OS5kZXZAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZGF0YSI6eyJlbWFpbCI6ImJhbmdib29uZzE5OTkuZGV2QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiaW52aXRlZF9ieSI6ImVtbnBKIiwicGhvbmVfdmVyaWZpZWQiOmZhbHNlLCJzdWIiOiI4YmEwMDMxNC05NjVhLTQ1YzMtOWYzNC0xYzc2OTc5OWRlMGQifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJwYXNzd29yZCIsInRpbWVzdGFtcCI6MTczMDQyMzUzNn1dLCJzZXNzaW9uX2lkIjoiMzRhMWE0ZDEtZGFlNC00YzYxLTlmODQtN2Y0M2YxZGQwNjM1IiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.To2rhoIV3VM0TlnvjI-E9DtjJdelbNqkNgRmQF555XM"
 ## ✎ᝰ. RUNNING 
 - Clone Repository
